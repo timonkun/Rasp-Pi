@@ -9,14 +9,18 @@ import string
 count = 0
   
 while True:
-    try:
-		p = os.popen('sudo ./dht11', 'r')
+	try:
+		p = os.popen('sudo /home/pi/programs/temprature/dht11', 'r')
 		cur_h_line = p.readline()
 		cur_h = string.atof(cur_h_line)
 
 		cur_t_line = p.readline()
 		cur_t = string.atof(cur_t_line)
-		
+	
+		if cur_h == 0.0 and cur_t == 0.0:
+			print 'Value error.'
+			continue
+
 		line_h = ' Humidity: ' + str(cur_h) + '%'
 		line_t = ' Temprature: ' + str(cur_t) + '*C'
 
@@ -29,10 +33,10 @@ while True:
 		print line_h
 		lineStr = line_t + line_h
 		weibo_func.send_weibo(weibo_type=weibo_func.TEMPRATURE_WEIBO, \
-				c=countStr, t=timeStr, h=lineStr)
+			c=countStr, t=timeStr, h=lineStr)
 		print "weibo sending done."
-		time.sleep(10)
+		time.sleep(3600)
 
-    except KeyboardInterrupt:  
-        GPIO.cleanup()       # clean up GPIO on CTRL+C exit  
-GPIO.cleanup()           # clean up GPIO on normal exit  
+	except KeyboardInterrupt:  
+		print 'Ctrl+C to quit.'       # CTRL+C exit
+		exit(1)

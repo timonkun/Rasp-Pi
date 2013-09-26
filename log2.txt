@@ -1,0 +1,14 @@
+Waiting for falling edge on port 4
+Traceback (most recent call last):
+  File "/home/pi/programs/human_detect/human_detect.py", line 31, in <module>
+    GPIO.wait_for_edge(SR501_DETECT_PIN, GPIO.RISING)
+RuntimeError: Error #5 waiting for edge
+[1m--- Opening /dev/video0...
+[0m[0mTrying source module v4l2...
+[0m[0m/dev/video0 opened.
+[0m[0mNo input was specified, using the first.
+[0m[1m--- Capturing frame...
+[0m[0mCaptured frame in 0.00 seconds.
+[0m[1m--- Processing captured image...
+[0m[0mWriting JPEG image to 'test.jpg'.
+[0m

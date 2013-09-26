@@ -1,0 +1,81 @@
+1. Thu Sep 26 23:08:29 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888109, 'expires_in': 1537888109, 'uid': u'3179457824'}
+weibo sending done.
+Ctrl+C to quit.
+1. Thu Sep 26 23:11:26 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888286, 'expires_in': 1537888286, 'uid': u'3179457824'}
+weibo sending done.
+2. Thu Sep 26 23:11:38 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888298, 'expires_in': 1537888298, 'uid': u'3179457824'}
+weibo sending done.
+3. Thu Sep 26 23:11:49 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888310, 'expires_in': 1537888310, 'uid': u'3179457824'}
+weibo sending done.
+4. Thu Sep 26 23:12:01 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888322, 'expires_in': 1537888322, 'uid': u'3179457824'}
+weibo sending done.
+Value error.
+Value error.
+5. Thu Sep 26 23:12:14 2013
+ Temprature: 32.0*C
+ Humidity: 42.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888334, 'expires_in': 1537888334, 'uid': u'3179457824'}
+weibo sending done.
+6. Thu Sep 26 23:12:26 2013
+ Temprature: 32.0*C
+ Humidity: 42.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888346, 'expires_in': 1537888346, 'uid': u'3179457824'}
+weibo sending done.
+Value error.
+7. Thu Sep 26 23:12:38 2013
+ Temprature: 32.0*C
+ Humidity: 42.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888358, 'expires_in': 1537888358, 'uid': u'3179457824'}
+weibo sending done.
+8. Thu Sep 26 23:12:49 2013
+ Temprature: 32.0*C
+ Humidity: 42.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888370, 'expires_in': 1537888370, 'uid': u'3179457824'}
+weibo sending done.
+9. Thu Sep 26 23:13:02 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888382, 'expires_in': 1537888382, 'uid': u'3179457824'}
+weibo sending done.
+10. Thu Sep 26 23:13:13 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888395, 'expires_in': 1537888395, 'uid': u'3179457824'}
+weibo sending done.
+11. Thu Sep 26 23:13:26 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888407, 'expires_in': 1537888407, 'uid': u'3179457824'}
+weibo sending done.
+12. Thu Sep 26 23:13:39 2013
+ Temprature: 32.0*C
+ Humidity: 43.0%
+referer url is : https://api.weibo.com/oauth2/authorize?redirect_uri=http%3A//timonkun.me&response_type=code&client_id=1315370602
+{'access_token': u'2.00oNgKTDsyJB8B3ef58dc3d1vZ8xmC', 'expires': 1537888419, 'expires_in': 1537888419, 'uid': u'3179457
