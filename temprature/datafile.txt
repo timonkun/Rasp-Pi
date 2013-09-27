@@ -1,0 +1,9 @@
+{
+	"title":"DHT11-temprature",
+	"about":"pets-keeper",
+	"tags":["dht11","temprature"],
+	"unit": {
+		"name": "temperature",
+		"symbol": "C"
+		}
+}
